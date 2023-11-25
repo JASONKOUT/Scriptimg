@@ -1,1 +1,1 @@
-# Scriptimg
+# Scripting
